@@ -233,6 +233,7 @@ nav ul li {
 }
 
 .more-about p {
+    text-align: center;
     line-height: var(--line-height);
     padding: 0.4rem;
 }
